@@ -1,7 +1,8 @@
+
 {
   "name": "dsh-hello-plugin",
-  "version": "0.1.0",
-  "description": "Minimal DeepSeek Harness GitHub installation demo",
+  "version": "0.2.0",
+  "description": "DeepSeek Harness copywriting skill test",
   "type": "module",
   "main": "./index.js",
   "files": [
